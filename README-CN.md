@@ -512,7 +512,8 @@ GPU。只能停止本次部署启动的进程，共享 GPU 或运行时可能承
 
 感谢 [HuiruHe](https://github.com/HuiruHe) 和
 [zhengzihaoPKU](https://github.com/zhengzihaoPKU) 对该 Service 的贡献。贡献者记录
-规则见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
+规则见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。Zihao Zheng 是相关论文的共同作者，
+并参与了代码改进。
 
 <a id="license"></a>
 ## 📄 协议

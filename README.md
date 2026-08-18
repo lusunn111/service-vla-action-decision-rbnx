@@ -690,7 +690,8 @@ star ⭐ and citing this software repository:
 
 We thank [HuiruHe](https://github.com/HuiruHe) and
 [zhengzihaoPKU](https://github.com/zhengzihaoPKU) for their contributions to
-the Service. See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the contributor policy.
+the Service. Zihao Zheng co-authored the related research and contributed code
+improvements. See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the contributor policy.
 
 <a id="license"></a>
 ## 📄 License
